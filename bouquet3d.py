@@ -9,7 +9,7 @@ FPS = 24
 SPIN_SPEED = 0.6
 TILT = 0.30
 CAM_DIST = 4.0
-MESSAGE = "for you ♥"
+MESSAGE = "i love you, yayang :3"
 NUM_HEARTS = 18
 
 WHITE = [244, 248, 251, 254, 255, 231]
